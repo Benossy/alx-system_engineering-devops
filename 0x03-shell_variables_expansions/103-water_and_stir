@@ -1,0 +1,3 @@
+#!/bin/bash
+sum=$(($water + stir))
+echo " result is: $sum"
